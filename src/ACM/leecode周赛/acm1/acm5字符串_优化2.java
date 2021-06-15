@@ -1,0 +1,117 @@
+package ACM.leecode周赛.acm1;
+
+import ACM.每日一题leecode.day100.TreeNode;
+
+import java.util.*;
+
+//超时 //运行超时:您的程序未能在规定时间内运行结束，请检查是否循环有错或算法复杂度过大。
+public class acm5字符串_优化2 {
+
+    private static List<Integer> ans;
+
+    //1.暴力解法 / 字典树+dfs /
+    public static void main(String[] args) {
+        //System.out.println((int)'a');
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        String s = scanner.next();
+
+        //构造字典树
+        treeTrix treeTrix = new treeTrix();
+        //System.out.println(treeTrix.chs[0]);
+
+        //存在前缀是一样的情况-保存坑位前一个的cur,下次直接从cur开始
+        //存在相等的情况
+        //他们的长度都是一致的
+        treeTrix safe = treeTrix;
+        /*for (int i = 0; i < n; i++) {
+            treeTrix cur = safe;
+            //System.out.println(cur);
+            for (int j = i+1; j < n; j++) {
+                //if (j==i)continue;
+                //对这串字符构造字典树
+                char c = s.charAt(j);
+                if (cur.chs[c - 'a']==null){
+                    cur.chs[c - 'a'] = new treeTrix();
+                }
+                cur=cur.chs[c - 'a'];
+            }
+            cur.list.add(i+1);
+            if (safe.chs[s.charAt(i)-'a']==null){
+                safe.chs[s.charAt(i)-'a']=new treeTrix();
+            }
+            safe=safe.chs[s.charAt(i)-'a'];
+            while (i<n-1 && s.charAt(i+1)==s.charAt(i)){
+                i++;
+                cur.list.add(i+1);
+                if (safe.chs[s.charAt(i)-'a']==null){
+                    safe.chs[s.charAt(i)-'a']=new treeTrix();
+                }
+                safe=safe.chs[s.charAt(i)-'a'];
+            }
+            //System.out.println(cur);
+            //System.out.println(treeTrix);
+        }*/
+        //构造一个通用版的
+        treeTrix normal = new treeTrix();
+        for (int i = 0; i < n; i++) {
+            normal.chs[s.charAt(i)-'a'] = new treeTrix();
+        }
+
+        for (int i = 0; i < n; i++) {
+            //跳过i号的索引
+            treeTrix p = normal;
+            p=normal.chs[s.charAt(i)-'a'].chs[s.charAt(i+1)-'a'];
+            treeTrix cur = p;
+        }
+
+
+        //System.out.println(treeTrix);
+        //遍历tree  dfs//找到最近的输出到数组中
+        ans = new ArrayList<>();
+        dfs(treeTrix);
+        for (Integer an : ans) {
+            System.out.print(an+" ");
+        }
+
+    }
+
+    private static void dfs(treeTrix treeTrix) {
+        if (treeTrix.list.size()>0){
+            if (treeTrix.list.size()>1){
+                Collections.sort(treeTrix.list);
+                for (Integer integer : treeTrix.list) {
+                    ans.add(integer);
+                }
+            }else {
+                ans.add(treeTrix.list.get(0));
+            }
+
+            return;
+        }
+        for (int i = 0; i < 26; i++) {
+            if (treeTrix.chs[i]!=null){
+                dfs(treeTrix.chs[i]);
+            }
+        }
+    }
+
+    static class treeTrix{
+        List<Integer> list;//这也是判断end的条件
+        treeTrix[] chs;
+
+        treeTrix(){
+            list = new ArrayList<>();
+            chs = new treeTrix[26];
+        }
+
+        @Override
+        public String toString() {
+            return "treeTrix{" +
+                    "list=" + list +
+                    ", chs=" + Arrays.toString(chs) +
+                    '}';
+        }
+    }
+
+}
