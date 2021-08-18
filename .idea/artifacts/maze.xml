@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="maze">
+    <output-path>$PROJECT_DIR$/out/artifacts/maze</output-path>
+    <root id="archive" name="maze.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/ACMTemp/数据结构算法教程/java数据结构算法/第4节_递归/MiGong迷宫_校宝在线.class" />
+    </root>
+  </artifact>
+</component>
