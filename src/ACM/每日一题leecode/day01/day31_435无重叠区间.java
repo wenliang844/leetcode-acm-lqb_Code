@@ -111,6 +111,7 @@ public class day31_435无重叠区间 {
         System.out.println("这是结果==============" + eraseOverlapIntervals_2(new int[][]{{-100, -87}, {-99, -44}, {-98, -19}, {-97, -33}, {-96, -60}}));
         System.out.println("这是结果==============" + eraseOverlapIntervals_2(new int[][]{{1,2}}));
         System.out.println("这是结果==============" + eraseOverlapIntervals_2(new int[][]{}));
+        System.out.println("这是结果==============---" + eraseOverlapIntervals_2(new int[][]{{1,2},{1,2},{1,2}}));
     }
 
     public static int eraseOverlapIntervals(int[][] intervals) {

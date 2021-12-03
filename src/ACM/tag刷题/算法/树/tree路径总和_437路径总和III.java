@@ -26,7 +26,7 @@ public class tree路径总和_437路径总和III {
      3.  -3 -> 11
      */
 
-    //方法一,递归 每个节点都去尝试   63 70
+    //方法一,递归 每个节点都去尝试   63 70|54 70
     public static int pathSum(TreeNode root, int sum) {
         Queue<TreeNode> queue = new LinkedList<>();
         if (root != null) queue.add(root);
