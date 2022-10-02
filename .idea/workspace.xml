@@ -1,240 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day01/day13_376摆动序列.java" line="59" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/leecode周赛/lee第221场周赛/lee_5637判断字符串的两半是否相似.java" line="48" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day01/day29_330按要求补齐数组.java" line="224" />
-    <bookmark url="file://$PROJECT_DIR$/src/数据结构算法教程/java数据结构算法/第5节_排序/All_Sort.java" line="438" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/tag刷题/算法/深度优先dfs/dfs_494目标和.java" line="61" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/tag刷题/算法/深度优先dfs/dfs_494目标和.java" line="44" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/每日一题leecode/自刷/leeTension_16最接近的三数之和.java" line="122" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day100/day125_1310子数组异或查询.java" line="41" />
-    <bookmark url="file://$PROJECT_DIR$/src/ACM/leecode周赛/第246场周赛/lee5788字符串中的最大奇数.java" line="4" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ffae19e-8fea-4dbf-9392-98ac578c0f0d" name="Default Changelist" comment="">
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ACMTemp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day255_521最长特殊序列Ⅰ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day256_599两个列表的最小索引总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day257_720词典中最长的单词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day258_606根据二叉树创建字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day259_653两数之和IV输入BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day260_307区域和检索数组可修改.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day261_1672最富有客户的资产总量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day262_1021删除最外层的括号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/maze.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day717_717_1比特与2比特字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day253_717_1比特与2比特字符.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day718_917仅仅反转字母.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day254_917仅仅反转字母.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/../../IdeaProjects/Proj_ssm_maven_itSystem/common-parent/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Unnamed">
-      <favorite_root url="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day205_分金子.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-    </favorites_list>
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day717_717_1比特与2比特字符.java">
+        <entry file="file://$PROJECT_DIR$/src/ACM/ACM1_20201116江西省赛/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day262_1021删除最外层的括号.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day718_917仅仅反转字母.java">
+        <entry file="file://$PROJECT_DIR$/src/ACM/ACM_20201116江西师大校选拔赛/ACM/Main2_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            <state relative-caret-position="365">
+              <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ACM/ACM_20201116江西师大校选拔赛/ACM/MailUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="AnnotationType" />
-        <option value="Kotlin Class" />
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-        <option value="Singleton" />
-      </list>
-    </option>
-  </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>tree路径总和_437路径总和III.TreeNode</find>
-      <find>tree_路径总和_113路径总和II.TreeNode</find>
-      <find>perClass</find>
-      <find>illli</find>
-      <find>i</find>
-      <find>s</find>
-      <find>list4.add</find>
-      <find>&quot;0&quot;</find>
-      <find>min</find>
-      <find>tree_236二叉树的最近公共祖先.TreeNode</find>
-      <find>2015</find>
-      <find>B</find>
-      <find>1</find>
-      <find>Touch</find>
-      <find>8080</find>
-      <find>,</find>
-      <find>ACM.tag刷题.算法.树.tree_105从前序与中序遍历序列构造二叉树.TreeNode</find>
-      <find>iamgeNum</find>
-      <find>day147_160相交链表.ListNode</find>
-      <find>],[</find>
-      <find>], [</find>
-      <find>'</find>
-      <find>System.out.println</find>
-      <find>//System.out.println</find>
-      <find>printChessboards</find>
-      <find>system</find>
-      <find />
-      <find>&quot;</find>
-      <find>”</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>int</replace>
-      <replace>p2</replace>
-      <replace>PerClass</replace>
-      <replace>matrix</replace>
-      <replace>words</replace>
-      <replace>);list4.add</replace>
-      <replace>'0'</replace>
-      <replace>mid</replace>
-      <replace>b</replace>
-      <replace>e</replace>
-      <replace>f</replace>
-      <replace>g</replace>
-      <replace>h</replace>
-      <replace>i</replace>
-      <replace>3</replace>
-      <replace>touch</replace>
-      <replace>.8080</replace>
-      <replace>.</replace>
-      <replace>TreeNode</replace>
-      <replace>imageNum</replace>
-      <replace>System.out.print</replace>
-      <replace>ListNode</replace>
-      <replace>},{</replace>
-      <replace>}, {</replace>
-      <replace>//System.out.println</replace>
-      <replace>System.out.println</replace>
-      <replace />
-      <replace>'</replace>
-      <replace>&quot;</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>E:\java\ACMTemp\ACMTemp\src\蓝桥杯</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/阅文科技/yw2相同的树.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day22266加一.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day222_66加一.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day223_229求众数II.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day225_240搜索二维矩阵II.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day224_492构造矩形.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day224_496下一个更大元素I.java" />
-        <option value="$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/others/java1.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day225_869重新排序得到2的幂.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day226_260只出现一次的数字III.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day227_500键盘行.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day228_575分糖果.java" />
-        <option value="$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah1_找频率最高的字母.java" />
-        <option value="$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah2_.java" />
-        <option value="$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah2_选课问题.java" />
-        <option value="$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah3_合并递增链表.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day229_367有效的完全平方数.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day230_598范围求和II.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day230_1218最长定差子序列.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day232_299猜数字游戏.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day233_519随机翻转矩阵.java" />
-        <option value="$PROJECT_DIR$/src/ACM/leecode周赛/第66场双周赛/lee1_5922统计出现过一次的公共字符串.java" />
-        <option value="$PROJECT_DIR$/src/ACM/leecode周赛/第66场双周赛/lee2_5923从房屋收集雨水需要的最少水桶数.java" />
-        <option value="$PROJECT_DIR$/src/ACM/leecode周赛/第66场双周赛/lee3_5924网格图中机器人回家的最小代价.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day234_438找到字符串中所有字母异位词.java" />
-        <option value="$PROJECT_DIR$/src/ACM/leecode周赛/第269场周赛/lee1_5938找出数组排序后的目标下标.java" />
-        <option value="$PROJECT_DIR$/src/ACM/leecode周赛/第269场周赛/lee2_5939半径为k的子数组平均值.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day235_1005K次取反后最大化的数组和.java" />
-        <option value="$PROJECT_DIR$/src/Codejava/MyCode/socket/MultiWebServer.java" />
-        <option value="$PROJECT_DIR$/src/Codejava/java面试题/java_class.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day236_383赎金信.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day235_1816截断句子.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day236_748最短补全词.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day237_.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day238_686重复叠加字符串匹配.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day239_1078Bigram分词.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day240_1995统计特殊四元组.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day241_846一手顺子.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day242_1185一周中的第几天.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day243_382链表随机节点.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day244_1688比赛中的配对次数.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day245_2013检测正方形.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day246_2000反转单词前缀.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day247_1748唯一元素的和.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day248_2006差的绝对值为K的数对数目.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day249_1984学生分数的最小差值.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day250_1189气球的最大数量.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day251_540有序数组中的单一元素.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day252_1380矩阵中的幸运数.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day717_717_1比特与2比特字符.java" />
-        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day718_917仅仅反转字母.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="588" />
-    <option name="width" value="1338" />
-    <option name="height" value="1083" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="733" />
+    <option name="width" value="1189" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <showMembers ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -261,21 +114,15 @@
               <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ACM" type="462c0819:PsiDirectoryNode" />
-              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM_20201116江西师大校选拔赛" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
               <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ACM" type="462c0819:PsiDirectoryNode" />
-              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
-              <item name="day237" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ACM2021" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM_20201116江西师大校选拔赛" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
@@ -290,44 +137,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/CodeDog/page_service" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ACM.每日一题leecode.day141" />
-      <recent name="ACM.每日一题leecode.day01" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ACM2021" />
-      <recent name="ACM.其他的算法比赛.笔试.网易2" />
-      <recent name="数据结构算法教程.java数据结构算法.第4节_递归" />
-      <recent name="蓝桥杯.练习系统.算法训练" />
-      <recent name="ACM.leecode周赛.acm1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\java\ACMTemp\ACMTemp\src\ACM\leecode周赛" />
-      <recent name="E:\java\ACMTemp\ACMTemp\src\jxut\BigData\lib" />
-      <recent name="E:\java\ACMTemp\ACMTemp\src\ACM\ACM_20201116江西师大校选拔赛\ACM\lib" />
-      <recent name="E:\java\ACMTemp\ACMTemp\src\lib" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -341,10 +159,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.day718_917仅仅反转字母">
-    <configuration name="day250_1189气球的最大数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day250_1189气球的最大数量" />
+  <component name="RunManager" selected="Application.Main2_1">
+    <configuration name="Main2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.ACM_20201116江西师大校选拔赛.ACM.Main2_1" />
       <module name="ACMTemp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.ACM_20201116江西师大校选拔赛.ACM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day262_1021删除最外层的括号 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day262_1021删除最外层的括号" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ACM.每日一题leecode.day237.*" />
@@ -355,47 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day251_540有序数组中的单一元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day251_540有序数组中的单一元素" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.day237.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day252_1380矩阵中的幸运数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day252_1380矩阵中的幸运数" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.day237.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day717_717_1比特与2比特字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day717_717_1比特与2比特字符" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.day237.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day718_917仅仅反转字母" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day718_917仅仅反转字母" />
+    <configuration name="day262_1021删除最外层的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day262_1021删除最外层的括号" />
       <module name="ACMTemp" />
       <extension name="coverage">
         <pattern>
@@ -409,538 +200,37 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.day718_917仅仅反转字母" />
-        <item itemvalue="Application.day717_717_1比特与2比特字符" />
-        <item itemvalue="Application.day252_1380矩阵中的幸运数" />
-        <item itemvalue="Application.day251_540有序数组中的单一元素" />
-        <item itemvalue="Application.day250_1189气球的最大数量" />
+        <item itemvalue="Application.Main2_1" />
+        <item itemvalue="Application.day262_1021删除最外层的括号" />
+        <item itemvalue="Application.day262_1021删除最外层的括号 (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\陈文亮\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ffae19e-8fea-4dbf-9392-98ac578c0f0d" name="Default Changelist" comment="" />
-      <created>1605349924020</created>
+      <changelist id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="" />
+      <created>1653752793610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605349924020</updated>
-      <workItem from="1605349928556" duration="173000" />
-      <workItem from="1605422531969" duration="13922000" />
-      <workItem from="1605446917923" duration="854000" />
-      <workItem from="1605450281236" duration="1745000" />
-      <workItem from="1605490331221" duration="9980000" />
-      <workItem from="1605786926458" duration="2957000" />
-      <workItem from="1605863696549" duration="4204000" />
-      <workItem from="1605880018677" duration="1690000" />
-      <workItem from="1605922847094" duration="1683000" />
-      <workItem from="1605958169026" duration="1942000" />
-      <workItem from="1606005410027" duration="1254000" />
-      <workItem from="1606093555020" duration="2648000" />
-      <workItem from="1606097878007" duration="251000" />
-      <workItem from="1606706358261" duration="6801000" />
-      <workItem from="1606786889202" duration="3045000" />
-      <workItem from="1606883074467" duration="11599000" />
-      <workItem from="1607134226286" duration="20457000" />
-      <workItem from="1607167998348" duration="6006000" />
-      <workItem from="1607175956343" duration="546000" />
-      <workItem from="1607217873007" duration="4239000" />
-      <workItem from="1607300476990" duration="2731000" />
-      <workItem from="1607331036827" duration="611000" />
-      <workItem from="1607349102447" duration="908000" />
-      <workItem from="1607390507916" duration="10966000" />
-      <workItem from="1607425110163" duration="9381000" />
-      <workItem from="1607488042009" duration="2627000" />
-      <workItem from="1607559952759" duration="2007000" />
-      <workItem from="1607575129634" duration="3302000" />
-      <workItem from="1607588454439" duration="3021000" />
-      <workItem from="1607591744326" duration="815000" />
-      <workItem from="1607649741266" duration="5335000" />
-      <workItem from="1607737481869" duration="1123000" />
-      <workItem from="1607740081221" duration="4078000" />
-      <workItem from="1607784274175" duration="11852000" />
-      <workItem from="1607869559954" duration="333000" />
-      <workItem from="1607905126713" duration="2815000" />
-      <workItem from="1607908522571" duration="4428000" />
-      <workItem from="1607918438742" duration="4607000" />
-      <workItem from="1607933669654" duration="1029000" />
-      <workItem from="1608008806561" duration="5287000" />
-      <workItem from="1608078511427" duration="2582000" />
-      <workItem from="1608132152425" duration="994000" />
-      <workItem from="1608164987045" duration="18067000" />
-      <workItem from="1608250816879" duration="2077000" />
-      <workItem from="1608303473666" duration="711000" />
-      <workItem from="1608352383751" duration="2508000" />
-      <workItem from="1608431665402" duration="3259000" />
-      <workItem from="1608511397939" duration="6237000" />
-      <workItem from="1608527673630" duration="1777000" />
-      <workItem from="1608537418345" duration="5653000" />
-      <workItem from="1608636442413" duration="2902000" />
-      <workItem from="1608647654761" duration="1034000" />
-      <workItem from="1608649098547" duration="2253000" />
-      <workItem from="1608689857215" duration="1073000" />
-      <workItem from="1608697347604" duration="12189000" />
-      <workItem from="1608783234427" duration="25091000" />
-      <workItem from="1608862171936" duration="34438000" />
-      <workItem from="1608944587427" duration="14769000" />
-      <workItem from="1608962651372" duration="3665000" />
-      <workItem from="1608966385404" duration="18983000" />
-      <workItem from="1608992980300" duration="6233000" />
-      <workItem from="1609037184432" duration="35040000" />
-      <workItem from="1609124022444" duration="40806000" />
-      <workItem from="1609209506956" duration="25399000" />
-      <workItem from="1609287601370" duration="29597000" />
-      <workItem from="1609380540149" duration="28190000" />
-      <workItem from="1609470374362" duration="30804000" />
-      <workItem from="1609513246140" duration="2876000" />
-      <workItem from="1609516238838" duration="3000" />
-      <workItem from="1609555277755" duration="39033000" />
-      <workItem from="1609639363635" duration="40650000" />
-      <workItem from="1609724666634" duration="14597000" />
-      <workItem from="1609815633665" duration="2072000" />
-      <workItem from="1609899082520" duration="10555000" />
-      <workItem from="1609946845000" duration="1400000" />
-      <workItem from="1609988477970" duration="11643000" />
-      <workItem from="1610076148695" duration="4243000" />
-      <workItem from="1610116132310" duration="4568000" />
-      <workItem from="1610166566022" duration="3212000" />
-      <workItem from="1610244611916" duration="8415000" />
-      <workItem from="1610328492338" duration="844000" />
-      <workItem from="1610338371633" duration="7825000" />
-      <workItem from="1610422204300" duration="3659000" />
-      <workItem from="1610452685125" duration="2157000" />
-      <workItem from="1610507906666" duration="2355000" />
-      <workItem from="1610589225850" duration="7855000" />
-      <workItem from="1610679306409" duration="595000" />
-      <workItem from="1610854344635" duration="5924000" />
-      <workItem from="1610958276977" duration="2129000" />
-      <workItem from="1611107492370" duration="21073000" />
-      <workItem from="1611193788654" duration="6975000" />
-      <workItem from="1611282544249" duration="9538000" />
-      <workItem from="1611373135602" duration="3491000" />
-      <workItem from="1611399080209" duration="2457000" />
-      <workItem from="1611468669668" duration="7769000" />
-      <workItem from="1611542559318" duration="909000" />
-      <workItem from="1611543650071" duration="4841000" />
-      <workItem from="1611641317605" duration="2769000" />
-      <workItem from="1611651383072" duration="635000" />
-      <workItem from="1611839485249" duration="5611000" />
-      <workItem from="1611977084547" duration="2153000" />
-      <workItem from="1611998210620" duration="3324000" />
-      <workItem from="1612086128297" duration="1583000" />
-      <workItem from="1612150738423" duration="2052000" />
-      <workItem from="1612252847734" duration="5393000" />
-      <workItem from="1612268071894" duration="1270000" />
-      <workItem from="1612316225314" duration="596000" />
-      <workItem from="1612343414983" duration="1739000" />
-      <workItem from="1612426799036" duration="1951000" />
-      <workItem from="1612449031428" duration="1022000" />
-      <workItem from="1612528606023" duration="753000" />
-      <workItem from="1612574377126" duration="627000" />
-      <workItem from="1612678348657" duration="2645000" />
-      <workItem from="1612747743613" duration="594000" />
-      <workItem from="1612780093644" duration="1813000" />
-      <workItem from="1612834268661" duration="421000" />
-      <workItem from="1613809608528" duration="1740000" />
-      <workItem from="1613829418439" duration="1352000" />
-      <workItem from="1613906089080" duration="1250000" />
-      <workItem from="1614000521887" duration="593000" />
-      <workItem from="1614086268542" duration="610000" />
-      <workItem from="1614248981815" duration="1684000" />
-      <workItem from="1614319666192" duration="599000" />
-      <workItem from="1614759644384" duration="595000" />
-      <workItem from="1615025495989" duration="3262000" />
-      <workItem from="1615087218416" duration="5589000" />
-      <workItem from="1615257092746" duration="1468000" />
-      <workItem from="1615471740288" duration="3635000" />
-      <workItem from="1615526817976" duration="11973000" />
-      <workItem from="1615627415616" duration="3600000" />
-      <workItem from="1615635507194" duration="5060000" />
-      <workItem from="1615687354500" duration="20013000" />
-      <workItem from="1615797293749" duration="3347000" />
-      <workItem from="1615853602948" duration="4671000" />
-      <workItem from="1615863266677" duration="9796000" />
-      <workItem from="1615948149982" duration="4669000" />
-      <workItem from="1615968343107" duration="9818000" />
-      <workItem from="1615992427563" duration="991000" />
-      <workItem from="1616041600856" duration="9919000" />
-      <workItem from="1616129892657" duration="15725000" />
-      <workItem from="1616165914300" duration="787000" />
-      <workItem from="1616204887507" duration="8850000" />
-      <workItem from="1616290477048" duration="21294000" />
-      <workItem from="1616333926563" duration="1004000" />
-      <workItem from="1616336603832" duration="596000" />
-      <workItem from="1616372022656" duration="4653000" />
-      <workItem from="1616389165552" duration="597000" />
-      <workItem from="1616411694616" duration="932000" />
-      <workItem from="1616412656200" duration="1628000" />
-      <workItem from="1616458535492" duration="1424000" />
-      <workItem from="1616468983518" duration="28915000" />
-      <workItem from="1616572942966" duration="14843000" />
-      <workItem from="1616638609461" duration="22809000" />
-      <workItem from="1616735714728" duration="25553000" />
-      <workItem from="1616809634894" duration="34747000" />
-      <workItem from="1616898218736" duration="30451000" />
-      <workItem from="1616977329665" duration="1254000" />
-      <workItem from="1616986738691" duration="6214000" />
-      <workItem from="1616999714061" duration="19162000" />
-      <workItem from="1617064270335" duration="31538000" />
-      <workItem from="1617152620780" duration="2568000" />
-      <workItem from="1617156720186" duration="32579000" />
-      <workItem from="1617243513650" duration="29852000" />
-      <workItem from="1617336768172" duration="26384000" />
-      <workItem from="1617412577292" duration="22754000" />
-      <workItem from="1617502232800" duration="33997000" />
-      <workItem from="1617585210399" duration="35320000" />
-      <workItem from="1617668267630" duration="3880000" />
-      <workItem from="1617675264979" duration="36765000" />
-      <workItem from="1617769212548" duration="15304000" />
-      <workItem from="1617853840939" duration="26106000" />
-      <workItem from="1617941616670" duration="24931000" />
-      <workItem from="1618031620794" duration="25877000" />
-      <workItem from="1618109531622" duration="22647000" />
-      <workItem from="1618193676798" duration="8219000" />
-      <workItem from="1618214812399" duration="19171000" />
-      <workItem from="1618273244475" duration="38430000" />
-      <workItem from="1618366098026" duration="9960000" />
-      <workItem from="1618386731930" duration="21668000" />
-      <workItem from="1618460509223" duration="29423000" />
-      <workItem from="1618549807688" duration="32019000" />
-      <workItem from="1618624507522" duration="36459000" />
-      <workItem from="1618731010787" duration="7412000" />
-      <workItem from="1618798959167" duration="399000" />
-      <workItem from="1618820891976" duration="1900000" />
-      <workItem from="1618978715778" duration="1190000" />
-      <workItem from="1619005831324" duration="1139000" />
-      <workItem from="1619065374975" duration="4672000" />
-      <workItem from="1619151646034" duration="11898000" />
-      <workItem from="1619239405740" duration="2670000" />
-      <workItem from="1619315599736" duration="2575000" />
-      <workItem from="1619324242895" duration="7331000" />
-      <workItem from="1619396047020" duration="1283000" />
-      <workItem from="1619403516003" duration="7847000" />
-      <workItem from="1619483453104" duration="1326000" />
-      <workItem from="1619576181797" duration="899000" />
-      <workItem from="1619608700915" duration="1145000" />
-      <workItem from="1619664964009" duration="3592000" />
-      <workItem from="1619670332844" duration="9913000" />
-      <workItem from="1619756261800" duration="6457000" />
-      <workItem from="1619836752998" duration="1601000" />
-      <workItem from="1619922314454" duration="13380000" />
-      <workItem from="1620008404807" duration="2852000" />
-      <workItem from="1620093363595" duration="4755000" />
-      <workItem from="1620179416300" duration="4299000" />
-      <workItem from="1620268768013" duration="952000" />
-      <workItem from="1620310783052" duration="633000" />
-      <workItem from="1620360906320" duration="986000" />
-      <workItem from="1620461797361" duration="5779000" />
-      <workItem from="1620522663459" duration="15452000" />
-      <workItem from="1620605144186" duration="6821000" />
-      <workItem from="1620692886333" duration="4549000" />
-      <workItem from="1620778661854" duration="3165000" />
-      <workItem from="1620866012442" duration="5607000" />
-      <workItem from="1620951527559" duration="3184000" />
-      <workItem from="1621038815240" duration="12392000" />
-      <workItem from="1621089168185" duration="4209000" />
-      <workItem from="1621128746759" duration="10199000" />
-      <workItem from="1621210822420" duration="1306000" />
-      <workItem from="1621297013206" duration="2379000" />
-      <workItem from="1621397660790" duration="873000" />
-      <workItem from="1621410884262" duration="2101000" />
-      <workItem from="1621477541128" duration="4876000" />
-      <workItem from="1621574241868" duration="6677000" />
-      <workItem from="1621653846969" duration="4762000" />
-      <workItem from="1621736126557" duration="12695000" />
-      <workItem from="1621815420165" duration="956000" />
-      <workItem from="1621822533320" duration="4362000" />
-      <workItem from="1621840417838" duration="1645000" />
-      <workItem from="1621842805058" duration="2263000" />
-      <workItem from="1621901732419" duration="2468000" />
-      <workItem from="1621996144599" duration="321000" />
-      <workItem from="1622081814054" duration="1620000" />
-      <workItem from="1622175283285" duration="1886000" />
-      <workItem from="1622287171000" duration="8982000" />
-      <workItem from="1622339827985" duration="11654000" />
-      <workItem from="1622365884838" duration="11245000" />
-      <workItem from="1622421304518" duration="929000" />
-      <workItem from="1622447835092" duration="13412000" />
-      <workItem from="1622518468543" duration="10729000" />
-      <workItem from="1622608495934" duration="22334000" />
-      <workItem from="1622687028043" duration="2238000" />
-      <workItem from="1622698343585" duration="1818000" />
-      <workItem from="1622725298164" duration="2731000" />
-      <workItem from="1622731174087" duration="3242000" />
-      <workItem from="1622791219337" duration="19096000" />
-      <workItem from="1622896008766" duration="2230000" />
-      <workItem from="1623034370269" duration="242000" />
-      <workItem from="1623118945305" duration="3707000" />
-      <workItem from="1623158810189" duration="1481000" />
-      <workItem from="1623212923726" duration="983000" />
-      <workItem from="1623225427677" duration="5101000" />
-      <workItem from="1623291888846" duration="628000" />
-      <workItem from="1623331147399" duration="1541000" />
-      <workItem from="1623385456487" duration="1766000" />
-      <workItem from="1623584621420" duration="3901000" />
-      <workItem from="1623637562517" duration="6195000" />
-      <workItem from="1623731925503" duration="2129000" />
-      <workItem from="1623746592958" duration="8068000" />
-      <workItem from="1623991414425" duration="1570000" />
-      <workItem from="1624005293215" duration="2717000" />
-      <workItem from="1624100669854" duration="3842000" />
-      <workItem from="1624156921728" duration="12267000" />
-      <workItem from="1624198544963" duration="596000" />
-      <workItem from="1624259294652" duration="1876000" />
-      <workItem from="1624279570515" duration="1802000" />
-      <workItem from="1624367406031" duration="2397000" />
-      <workItem from="1624371916382" duration="2414000" />
-      <workItem from="1624457810329" duration="294000" />
-      <workItem from="1624460351772" duration="1080000" />
-      <workItem from="1624462259792" duration="37000" />
-      <workItem from="1624502831299" duration="1248000" />
-      <workItem from="1624525187693" duration="595000" />
-      <workItem from="1624530881918" duration="5948000" />
-      <workItem from="1624947039796" duration="2659000" />
-      <workItem from="1625025102900" duration="2312000" />
-      <workItem from="1625036823576" duration="946000" />
-      <workItem from="1625112805932" duration="1708000" />
-      <workItem from="1625205438259" duration="1052000" />
-      <workItem from="1625304426044" duration="1211000" />
-      <workItem from="1625315536786" duration="4322000" />
-      <workItem from="1625356770640" duration="2018000" />
-      <workItem from="1625491103483" duration="2141000" />
-      <workItem from="1625579400479" duration="3877000" />
-      <workItem from="1625655166151" duration="2013000" />
-      <workItem from="1625846135350" duration="786000" />
-      <workItem from="1625892228071" duration="1429000" />
-      <workItem from="1625921088894" duration="2168000" />
-      <workItem from="1625933156749" duration="1120000" />
-      <workItem from="1625974765029" duration="592000" />
-      <workItem from="1626103868510" duration="1138000" />
-      <workItem from="1626181147661" duration="885000" />
-      <workItem from="1626360953261" duration="2146000" />
-      <workItem from="1626455484320" duration="3852000" />
-      <workItem from="1626478576678" duration="107000" />
-      <workItem from="1626529017036" duration="465000" />
-      <workItem from="1626578936018" duration="3171000" />
-      <workItem from="1627055219819" duration="3593000" />
-      <workItem from="1627090602051" duration="2160000" />
-      <workItem from="1627137240473" duration="5419000" />
-      <workItem from="1627199592975" duration="2978000" />
-      <workItem from="1627260534400" duration="7175000" />
-      <workItem from="1627395532133" duration="2467000" />
-      <workItem from="1627657853631" duration="2174000" />
-      <workItem from="1627715362655" duration="3320000" />
-      <workItem from="1627783733820" duration="8080000" />
-      <workItem from="1627913106183" duration="599000" />
-      <workItem from="1628325453139" duration="599000" />
-      <workItem from="1628398302675" duration="5192000" />
-      <workItem from="1628909352998" duration="17791000" />
-      <workItem from="1628992918028" duration="13680000" />
-      <workItem from="1629083570293" duration="114000" />
-      <workItem from="1629195774968" duration="370000" />
-      <workItem from="1629514417719" duration="5047000" />
-      <workItem from="1629552248645" duration="3283000" />
-      <workItem from="1629600748393" duration="12080000" />
-      <workItem from="1629642819409" duration="622000" />
-      <workItem from="1630221551571" duration="5709000" />
-      <workItem from="1630404043375" duration="975000" />
-      <workItem from="1630417569344" duration="2443000" />
-      <workItem from="1630487752120" duration="4343000" />
-      <workItem from="1630550378575" duration="9212000" />
-      <workItem from="1630632743190" duration="3919000" />
-      <workItem from="1630719086930" duration="9198000" />
-      <workItem from="1630808162932" duration="1637000" />
-      <workItem from="1630888083188" duration="3308000" />
-      <workItem from="1630928042957" duration="336000" />
-      <workItem from="1630990446962" duration="1500000" />
-      <workItem from="1631068924942" duration="198000" />
-      <workItem from="1631152551842" duration="651000" />
-      <workItem from="1631236290067" duration="1254000" />
-      <workItem from="1631271458549" duration="5194000" />
-      <workItem from="1631336050692" duration="976000" />
-      <workItem from="1631337769906" duration="980000" />
-      <workItem from="1631343661242" duration="9516000" />
-      <workItem from="1631360733408" duration="4616000" />
-      <workItem from="1631366162353" duration="917000" />
-      <workItem from="1631370678020" duration="850000" />
-      <workItem from="1631411253866" duration="3786000" />
-      <workItem from="1631434125902" duration="3149000" />
-      <workItem from="1631493246029" duration="3684000" />
-      <workItem from="1631497051917" duration="5023000" />
-      <workItem from="1631525578097" duration="4014000" />
-      <workItem from="1631578735396" duration="1038000" />
-      <workItem from="1631580336202" duration="2663000" />
-      <workItem from="1631590686846" duration="304000" />
-      <workItem from="1631601674163" duration="3565000" />
-      <workItem from="1631664913623" duration="4230000" />
-      <workItem from="1631698424506" duration="1113000" />
-      <workItem from="1631751614229" duration="1357000" />
-      <workItem from="1631755238426" duration="1198000" />
-      <workItem from="1631773178790" duration="5254000" />
-      <workItem from="1631780775472" duration="206000" />
-      <workItem from="1631790994460" duration="2662000" />
-      <workItem from="1631837514964" duration="2237000" />
-      <workItem from="1632018550481" duration="17135000" />
-      <workItem from="1632194819966" duration="3108000" />
-      <workItem from="1632270276031" duration="5104000" />
-      <workItem from="1632290921780" duration="1161000" />
-      <workItem from="1632298790582" duration="134000" />
-      <workItem from="1632358610276" duration="972000" />
-      <workItem from="1632541248430" duration="16767000" />
-      <workItem from="1632563728073" duration="4544000" />
-      <workItem from="1632634714205" duration="11775000" />
-      <workItem from="1632708448093" duration="2092000" />
-      <workItem from="1632748978077" duration="3716000" />
-      <workItem from="1632825696566" duration="1607000" />
-      <workItem from="1633055176524" duration="279000" />
-      <workItem from="1633055780360" duration="1578000" />
-      <workItem from="1633095846882" duration="1539000" />
-      <workItem from="1633188311790" duration="623000" />
-      <workItem from="1633222416775" duration="3566000" />
-      <workItem from="1633593895796" duration="3392000" />
-      <workItem from="1633659504452" duration="1133000" />
-      <workItem from="1633846245191" duration="4279000" />
-      <workItem from="1634005822487" duration="3754000" />
-      <workItem from="1634197085066" duration="1314000" />
-      <workItem from="1634524422002" duration="3405000" />
-      <workItem from="1634806624337" duration="4253000" />
-      <workItem from="1634825284588" duration="1874000" />
-      <workItem from="1634873875241" duration="3754000" />
-      <workItem from="1634977704934" duration="3262000" />
-      <workItem from="1635168769603" duration="822000" />
-      <workItem from="1635211935953" duration="3218000" />
-      <workItem from="1635251834987" duration="1424000" />
-      <workItem from="1635298335648" duration="3962000" />
-      <workItem from="1635397329555" duration="2835000" />
-      <workItem from="1635588560689" duration="563000" />
-      <workItem from="1635642963500" duration="3851000" />
-      <workItem from="1635776120912" duration="1577000" />
-      <workItem from="1635852063823" duration="1831000" />
-      <workItem from="1636024311997" duration="596000" />
-      <workItem from="1636030737199" duration="3436000" />
-      <workItem from="1636095381508" duration="3349000" />
-      <workItem from="1636194052342" duration="595000" />
-      <workItem from="1636253074257" duration="9861000" />
-      <workItem from="1636332799276" duration="2406000" />
-      <workItem from="1638024095242" duration="5791000" />
-      <workItem from="1638062835672" duration="4667000" />
-      <workItem from="1638538729456" duration="5808000" />
-      <workItem from="1638604536493" duration="3568000" />
-      <workItem from="1638788618399" duration="1918000" />
-      <workItem from="1639139146034" duration="3149000" />
-      <workItem from="1639324687603" duration="596000" />
-      <workItem from="1639480943302" duration="140000" />
-      <workItem from="1639481258534" duration="555000" />
-      <workItem from="1639481840399" duration="2212000" />
-      <workItem from="1639585313589" duration="556000" />
-      <workItem from="1640183883439" duration="2827000" />
-      <workItem from="1640529143411" duration="1541000" />
-      <workItem from="1640787398972" duration="2399000" />
-      <workItem from="1640879399415" duration="1238000" />
-      <workItem from="1641218526528" duration="1581000" />
-      <workItem from="1642344409819" duration="1970000" />
-      <workItem from="1642595648713" duration="703000" />
-      <workItem from="1643119599867" duration="1612000" />
-      <workItem from="1643175987910" duration="6998000" />
-      <workItem from="1643808980775" duration="2070000" />
-      <workItem from="1644138003850" duration="1420000" />
-      <workItem from="1644375120036" duration="589000" />
-      <workItem from="1644388041708" duration="1699000" />
-      <workItem from="1644548403671" duration="1180000" />
-      <workItem from="1644681961421" duration="1112000" />
-      <workItem from="1644728623260" duration="2965000" />
-      <workItem from="1644843269563" duration="2919000" />
-      <workItem from="1644937496529" duration="773000" />
-      <workItem from="1645363765107" duration="1922000" />
-      <workItem from="1645622433650" duration="1827000" />
-      <workItem from="1646235804721" duration="1543000" />
+      <updated>1653752793610</updated>
+      <workItem from="1653752794859" duration="301000" />
+      <workItem from="1655181087472" duration="402000" />
+      <workItem from="1660151241428" duration="469000" />
+      <workItem from="1664678446075" duration="498000" />
     </task>
-    <task id="LOCAL-00001" summary="MyArithmeticCode1">
-      <created>1623747679300</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1623747679300</updated>
-    </task>
-    <task id="LOCAL-00002" summary="MyArithmeticCode">
-      <created>1638539325191</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1638539325191</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2022.3.2">
-      <created>1646235863750</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1646235863750</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="蓝桥杯_in_ACMTemp - 2021.04.26 at 10h 20m 44s.xml">
-      <configuration name="蓝桥杯 in ACMTemp" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2592808000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="1670000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="733" y="0" width="1189" height="1042" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2585288" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Version Control" order="7" visible="true" weight="0.20575693" />
-      <window_info active="true" anchor="bottom" id="SVN Repositories" order="0" visible="true" weight="0.28170478" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3253638" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4968017" weight="0.3097998" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.34325185" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.27546778" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" weight="0.24104235" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.497191" weight="0.31496882" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32870865" />
-      <window_info anchor="bottom" id="MyBatis Log" order="15" />
-      <window_info anchor="bottom" id="Inspection Results" order="16" visible="true" weight="0.32224533" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489339" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.23880596" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.14179105" />
-      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
-      <window_info anchor="right" id="Codota" order="11" weight="0.1913646" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37949923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26306465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -948,733 +238,64 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3253638" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.22760801" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34325185" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2764317" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.2764141" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" weight="0.24104235" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.497191" weight="0.31506848" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32870865" />
-      <window_info anchor="bottom" id="MyBatis Log" order="15" />
-      <window_info anchor="bottom" id="Inspection Results" order="16" visible="true" weight="0.32224533" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.29515418" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489339" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.23880596" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32903227" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.14179105" />
-      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
-      <window_info anchor="right" id="Codota" order="11" weight="0.1913646" />
-    </layout-to-restore>
+      <window_info anchor="right" id="Maven" order="6" weight="0.32903227" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Codota" order="9" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="MyArithmeticCode1" />
-    <MESSAGE value="MyArithmeticCode" />
-    <MESSAGE value="MyArithmeticCode2" />
-    <MESSAGE value="2022.3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.3.2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/自刷/L218天际线问题.java</url>
-          <line>121</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数据结构算法教程/java数据结构算法/第5节_排序/All_Sort.java</url>
-          <line>248</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/leecode周赛/第233场周赛/lee3_5711有界数组中指定下标处的最大值.java</url>
-          <line>129</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/leecode周赛/第48场双周赛/lee_45695N次操作后的最大分数和_记忆化搜索.java</url>
-          <line>122</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/算法/树/tree_124二叉树中的最大路径和.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/算法/树/tree路径总和_112路径总和.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/算法/树/tree_543二叉树的直径.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/算法/深度优先dfs/dfs_494目标和.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/算法/设计/design_146LRU缓存机制.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/算法/动态规划/dp_32最长有效括号.java</url>
-          <line>88</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/数组/array_581最短无序连续子数组.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯每日一题/day47_传球游戏.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/链表/link_234回文链表.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第七届/省赛javaB/填空3凑算式.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第七届/决赛/code1路径之谜method2.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第七届/决赛/code1路径之谜.java</url>
-          <line>82</line>
-          <properties />
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第七届/决赛/code3圆圈舞.java</url>
-          <line>109</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第七届/决赛/code3圆圈舞参考1.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第八届/决赛/code2填字母游戏.java</url>
-          <line>65</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第九届/决赛/code2版本分支.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/lan真题训练/第十届2020决赛/B平均拆分.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/lan真题训练/第十届2020决赛/J分考场.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/day100/day105_363矩形区域不超过K的最大数值和.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/day100/day112_403青蛙过河.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/day100/day113_137只出现一次的数字II.java</url>
-          <line>95</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/leecode周赛/第239场周赛/lee2_5747将字符串拆分为递减的连续值.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/day100/day122_1482制作m束花所需的最少天数.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/leecode周赛/第240场周赛/lee1_5750人口最多的年份.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/leecode周赛/第241场周赛/lee1_5759找出所有子集的异或总和再求和.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/leecode周赛/第246场周赛/lee5789你完成的完整对局数.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day235_1005K次取反后最大化的数组和.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/蓝桥杯/蓝桥杯大赛历届真题/第六届javaB/code2表格计算.java</url>
-          <line>67</line>
-          <properties class="蓝桥杯.蓝桥杯大赛历届真题.第六届javaB.code2表格计算" method="SUM">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/栈/stack_20有效的括号.java</url>
-          <line>15</line>
-          <properties class="ACM.tag刷题.数据结构.栈.stack_20有效的括号" method="isValid">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ACMTemp$string_14.ic" NAME="string_14最长公共前缀 Coverage Results" MODIFIED="1617968440430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ACM.tag刷题.算法.字符串.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/ACMTemp$day86_173.ic" NAME="day86_173二叉搜索树迭代器 Coverage Results" MODIFIED="1616914875004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ACM.每日一题leecode.day66.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/ACMTemp$2_.ic" NAME="填空2_四阶幻方 Coverage Results" MODIFIED="1618301404142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>蓝桥杯.蓝桥杯大赛历届真题.第六届javaB.javaA.*</FILTER>
-    </SUITE>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day224_492构造矩形.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day224_496下一个更大元素I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/others/java1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day225_869重新排序得到2的幂.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day226_260只出现一次的数字III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day227_500键盘行.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day228_575分糖果.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah1_找频率最高的字母.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah3_合并递增链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/栈/stack_94二叉树的中序遍历.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="64" column="5" selection-start-line="46" selection-start-column="3" selection-end-line="64" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/tag刷题/算法/树/tree_105从前序与中序遍历序列构造二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2527">
-          <caret line="136" column="24" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day66/day71_331验证二叉树的前序序列化.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/其他的算法比赛/笔试/安恒信息/ah2_选课问题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day229_367有效的完全平方数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day231_1218最长定差子序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day230_598范围求和II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day232_299猜数字游戏.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getHint#0;class#day232_299猜数字游戏#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day233_519随机翻转矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/leecode周赛/第66场双周赛/lee1_5922统计出现过一次的公共字符串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/leecode周赛/第66场双周赛/lee2_5923从房屋收集雨水需要的最少水桶数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/objects/Global.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="799" column="25" selection-start-line="799" selection-start-column="25" selection-end-line="799" selection-end-column="25" />
-          <folding>
-            <element signature="e#27474#27475#0" expanded="true" />
-            <element signature="e#27541#27542#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/leecode周赛/第66场双周赛/lee3_5924网格图中机器人回家的最小代价.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/util/Map.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day234_438找到字符串中所有字母异位词.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/leecode周赛/第269场周赛/lee1_5938找出数组排序后的目标下标.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/leecode周赛/第269场周赛/lee2_5939半径为k的子数组平均值.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day235_1005K次取反后最大化的数组和.java">
+    <entry file="file://$PROJECT_DIR$/src/ACM/ACM1_20201116江西省赛/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codejava/MyCode/socket/MultiWebServer.java">
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day262_1021删除最外层的括号.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="114">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/ACM_20201116江西师大校选拔赛/ACM/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/java_class.java">
+    <entry file="file://$PROJECT_DIR$/src/ACM/ACM_20201116江西师大校选拔赛/ACM/Main2_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day236_383赎金信.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day235_1816截断句子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day236_748最短补全词.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day185/day185_1137第N个泰波那契数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day237_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day238_686重复叠加字符串匹配.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day239_1078Bigram分词.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day240_1995统计特殊四元组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day241_846一手顺子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="33" column="79" selection-start-line="33" selection-start-column="79" selection-end-line="33" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day242_1185一周中的第几天.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day243_382链表随机节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day244_1688比赛中的配对次数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day245_2013检测正方形.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day246_2000反转单词前缀.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="96" selection-start-line="13" selection-start-column="96" selection-end-line="13" selection-end-column="96" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day247_1748唯一元素的和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="19" selection-start-line="11" selection-start-column="7" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day248_2006差的绝对值为K的数对数目.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day249_1984学生分数的最小差值.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="19" selection-start-line="12" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day250_1189气球的最大数量.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day251_540有序数组中的单一元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day252_1380矩阵中的幸运数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day717_717_1比特与2比特字符.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day718_917仅仅反转字母.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="365">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1683,17 +304,11 @@
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <artifact-editor>
-            <show-content>
-              <type id="library" />
-            </show-content>
-          </artifact-editor>
-          <last-edited>maze</last-edited>
+          <artifact-editor />
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1701,7 +316,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1724,7 +338,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>15</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1741,7 +354,18 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1749,7 +373,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

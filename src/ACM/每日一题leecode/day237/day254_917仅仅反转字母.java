@@ -1,6 +1,6 @@
 package ACM.每日一题leecode.day237;
 
-public class day718_917仅仅反转字母 {
+public class day254_917仅仅反转字母 {
     public static void main(String[] args) {
         System.out.println(reverseOnlyLetters("ab-cd"));
         System.out.println(reverseOnlyLetters("a-bC-dEf-ghIj"));

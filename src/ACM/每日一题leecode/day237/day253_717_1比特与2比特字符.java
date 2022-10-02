@@ -1,6 +1,6 @@
 package ACM.每日一题leecode.day237;
 
-public class day717_717_1比特与2比特字符 {
+public class day253_717_1比特与2比特字符 {
     public static void main(String[] args) {
         System.out.println(isOneBitCharacter(new int[]{1,1,1,0}));
         System.out.println(isOneBitCharacter(new int[]{1,1,1,0,0}));
