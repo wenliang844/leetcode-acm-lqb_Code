@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day263_777在LR字符串中交换相邻字符.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,33 +15,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/day237/day263_777在LR字符串中交换相邻字符.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/lang/Character.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +25,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/栈/stack_155最小栈.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day017_1769移动所有球到每个盒子所需的最小操作数.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day004_658找到K个最接近的元素.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/剑指/day002_剑指OfferII026重排链表.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day015_784字母大小写全排列.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day022_1945字符串转化后的各位数字之和.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/剑指/day001_剑指Offer09用两个栈实现队列.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/tag刷题/算法/贪心算法/greedy_406根据身高重建队列.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day022_807保持城市天际线.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -62,6 +62,10 @@
     <option name="x" value="662" />
     <option name="width" value="1260" />
     <option name="height" value="1042" />
+  </component>
+  <component name="ProjectId" id="2IwJ8oUgxPy76WDO91eGU9aQKKd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -128,11 +132,15 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -146,25 +154,36 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ReaderModeSettings">
+    <option name="showRenderedDocs" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main2_1">
-    <configuration name="Main2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.ACM_20201116江西师大校选拔赛.ACM.Main2_1" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Trantor.day025_1760袋子里最少数目的球">
+    <configuration name="day002_剑指OfferII026重排链表" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
+        <env name="REDIS_HOST" value="localhost" />
+        <env name="DS_PROJECT_ID" value="trantor" />
+        <env name="ACL_MOCK" value="true" />
+        <env name="REDIS_PORT" value="6380" />
+        <env name="META_STORE_PORT" value="8082" />
+        <env name="DUBBO_ENABLED" value="false" />
+        <env name="META_STORE_HOST" value="localhost" />
+        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
+        <env name="USER_MOCK" value="true" />
+        <env name="DS_PORT" value="8081" />
+        <env name="DS_HOST" value="localhost" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.剑指.day002_剑指OfferII026重排链表" />
       <module name="ACMTemp" />
+      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ACM.ACM_20201116江西师大校选拔赛.ACM.*" />
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.剑指.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +191,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day262_1021删除最外层的括号 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day262_1021删除最外层的括号" />
+    <configuration name="day022_50Powxn" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
+        <env name="REDIS_HOST" value="localhost" />
+        <env name="DS_PROJECT_ID" value="trantor" />
+        <env name="ACL_MOCK" value="true" />
+        <env name="REDIS_PORT" value="6380" />
+        <env name="META_STORE_PORT" value="8082" />
+        <env name="DUBBO_ENABLED" value="false" />
+        <env name="META_STORE_HOST" value="localhost" />
+        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
+        <env name="USER_MOCK" value="true" />
+        <env name="DS_PORT" value="8081" />
+        <env name="DS_HOST" value="localhost" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day000.day022_50Powxn" />
+      <module name="ACMTemp" />
+      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.day237.*" />
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +219,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day262_1021删除最外层的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.day237.day262_1021删除最外层的括号" />
+    <configuration name="day024_1971寻找图中是否存在路径" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
+        <env name="REDIS_HOST" value="localhost" />
+        <env name="DS_PROJECT_ID" value="trantor" />
+        <env name="ACL_MOCK" value="true" />
+        <env name="REDIS_PORT" value="6380" />
+        <env name="META_STORE_PORT" value="8082" />
+        <env name="DUBBO_ENABLED" value="false" />
+        <env name="META_STORE_HOST" value="localhost" />
+        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
+        <env name="USER_MOCK" value="true" />
+        <env name="DS_PORT" value="8081" />
+        <env name="DS_HOST" value="localhost" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day000.day024_1971寻找图中是否存在路径" />
       <module name="ACMTemp" />
+      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.day237.*" />
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day025_1760袋子里最少数目的球" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
+        <env name="REDIS_HOST" value="localhost" />
+        <env name="DS_PROJECT_ID" value="trantor" />
+        <env name="ACL_MOCK" value="true" />
+        <env name="REDIS_PORT" value="6380" />
+        <env name="META_STORE_PORT" value="8082" />
+        <env name="DUBBO_ENABLED" value="false" />
+        <env name="META_STORE_HOST" value="localhost" />
+        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
+        <env name="USER_MOCK" value="true" />
+        <env name="DS_PORT" value="8081" />
+        <env name="DS_HOST" value="localhost" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day000.day025_1760袋子里最少数目的球" />
+      <module name="ACMTemp" />
+      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day22_108将有序数组转换为二叉搜索树" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
+        <env name="REDIS_HOST" value="localhost" />
+        <env name="DS_PROJECT_ID" value="trantor" />
+        <env name="ACL_MOCK" value="true" />
+        <env name="REDIS_PORT" value="6380" />
+        <env name="META_STORE_PORT" value="8082" />
+        <env name="DUBBO_ENABLED" value="false" />
+        <env name="META_STORE_HOST" value="localhost" />
+        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
+        <env name="USER_MOCK" value="true" />
+        <env name="DS_PORT" value="8081" />
+        <env name="DS_HOST" value="localhost" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day000.day22_108将有序数组转换为二叉搜索树" />
+      <module name="ACMTemp" />
+      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +305,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2_1" />
-        <item itemvalue="Application.day262_1021删除最外层的括号" />
-        <item itemvalue="Application.day262_1021删除最外层的括号 (1)" />
+        <item itemvalue="Trantor.day025_1760袋子里最少数目的球" />
+        <item itemvalue="Trantor.day024_1971寻找图中是否存在路径" />
+        <item itemvalue="Trantor.day22_108将有序数组转换为二叉搜索树" />
+        <item itemvalue="Trantor.day022_50Powxn" />
+        <item itemvalue="Trantor.day002_剑指OfferII026重排链表" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -219,6 +328,7 @@
       <workItem from="1655181087472" duration="402000" />
       <workItem from="1660151241428" duration="469000" />
       <workItem from="1664678446075" duration="4969000" />
+      <workItem from="1671086560422" duration="45655000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -227,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664679053423</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1671086758354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671086758354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -324,29 +441,38 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
               </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day22_108将有序数组转换为二叉搜索树.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ACM/ACM1_20201116江西省赛/Main.java">
