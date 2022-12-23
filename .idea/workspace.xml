@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="1">
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="day-code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day024_1971寻找图中是否存在路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day024_1971寻找图中是否存在路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day025_1760袋子里最少数目的球.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day025_1760袋子里最少数目的球.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,35 +163,7 @@
       <recent name="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波" />
     </key>
   </component>
-  <component name="RunManager" selected="Trantor.day025_1760袋子里最少数目的球">
-    <configuration name="day002_剑指OfferII026重排链表" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
-        <env name="REDIS_HOST" value="localhost" />
-        <env name="DS_PROJECT_ID" value="trantor" />
-        <env name="ACL_MOCK" value="true" />
-        <env name="REDIS_PORT" value="6380" />
-        <env name="META_STORE_PORT" value="8082" />
-        <env name="DUBBO_ENABLED" value="false" />
-        <env name="META_STORE_HOST" value="localhost" />
-        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
-        <env name="USER_MOCK" value="true" />
-        <env name="DS_PORT" value="8081" />
-        <env name="DS_HOST" value="localhost" />
-      </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.剑指.day002_剑指OfferII026重排链表" />
-      <module name="ACMTemp" />
-      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.剑指.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Trantor.day26_2011执行操作后的变量值">
     <configuration name="day022_50Powxn" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
@@ -303,13 +276,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day26_2011执行操作后的变量值" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
+        <env name="REDIS_HOST" value="localhost" />
+        <env name="DS_PROJECT_ID" value="trantor" />
+        <env name="ACL_MOCK" value="true" />
+        <env name="REDIS_PORT" value="6380" />
+        <env name="META_STORE_PORT" value="8082" />
+        <env name="DUBBO_ENABLED" value="false" />
+        <env name="META_STORE_HOST" value="localhost" />
+        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
+        <env name="USER_MOCK" value="true" />
+        <env name="DS_PORT" value="8081" />
+        <env name="DS_HOST" value="localhost" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day000.day26_2011执行操作后的变量值" />
+      <module name="ACMTemp" />
+      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Trantor.day26_2011执行操作后的变量值" />
         <item itemvalue="Trantor.day025_1760袋子里最少数目的球" />
         <item itemvalue="Trantor.day024_1971寻找图中是否存在路径" />
         <item itemvalue="Trantor.day22_108将有序数组转换为二叉搜索树" />
         <item itemvalue="Trantor.day022_50Powxn" />
-        <item itemvalue="Trantor.day002_剑指OfferII026重排链表" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +329,7 @@
       <workItem from="1655181087472" duration="402000" />
       <workItem from="1660151241428" duration="469000" />
       <workItem from="1664678446075" duration="4969000" />
-      <workItem from="1671086560422" duration="45655000" />
+      <workItem from="1671086560422" duration="62313000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -344,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671086758354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day-code">
+      <created>1671517505697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671517505697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -461,7 +469,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="day-code" />
+    <option name="LAST_COMMIT_MESSAGE" value="day-code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

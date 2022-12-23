@@ -1,6 +1,5 @@
 package ACM.每日一题leecode.第二波.leetcode.day000;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
