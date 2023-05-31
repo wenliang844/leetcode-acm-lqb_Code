@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="day-code3">
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="day-code4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/leecode周赛/力扣杯2021春战队赛/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/leecode周赛/力扣杯2021春战队赛/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day37_1000合并石头的最低成本.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day37_1000合并石头的最低成本.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,8 +166,8 @@
       <recent name="ACM.每日一题leecode.第二波.leetcode.day030" />
     </key>
   </component>
-  <component name="RunManager" selected="Trantor.day36_1053交换一次的先前排列">
-    <configuration name="day032_2379得到K个黑块的最少涂色次数" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Trantor.day53_1110删点成林">
+    <configuration name="day48_1072按列翻转得到最大值等行数" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
         <env name="REDIS_HOST" value="localhost" />
@@ -180,7 +182,7 @@
         <env name="DS_PORT" value="8081" />
         <env name="DS_HOST" value="localhost" />
       </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day032_2379得到K个黑块的最少涂色次数" />
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day48_1072按列翻转得到最大值等行数" />
       <module name="ACMTemp" />
       <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
@@ -193,7 +195,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day033_2383赢得比赛需要的最少训练时长" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+    <configuration name="day49_2446判断两个事件是否存在冲突" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
         <env name="REDIS_HOST" value="localhost" />
@@ -208,7 +210,7 @@
         <env name="DS_PORT" value="8081" />
         <env name="DS_HOST" value="localhost" />
       </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day033_2383赢得比赛需要的最少训练时长" />
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day49_2446判断两个事件是否存在冲突" />
       <module name="ACMTemp" />
       <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
@@ -221,7 +223,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day034_2389和有限的最长子序列" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+    <configuration name="day51_1090受标签影响的最大值" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
         <env name="REDIS_HOST" value="localhost" />
@@ -236,7 +238,7 @@
         <env name="DS_PORT" value="8081" />
         <env name="DS_HOST" value="localhost" />
       </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day034_2389和有限的最长子序列" />
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day51_1090受标签影响的最大值" />
       <module name="ACMTemp" />
       <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
@@ -249,7 +251,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day35_2367算术三元组的数目" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+    <configuration name="day52_1091二进制矩阵中的最短路径" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
         <env name="REDIS_HOST" value="localhost" />
@@ -264,7 +266,7 @@
         <env name="DS_PORT" value="8081" />
         <env name="DS_HOST" value="localhost" />
       </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day35_2367算术三元组的数目" />
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day52_1091二进制矩阵中的最短路径" />
       <module name="ACMTemp" />
       <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
@@ -277,7 +279,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day36_1053交换一次的先前排列" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
+    <configuration name="day53_1110删点成林" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
         <env name="REDIS_HOST" value="localhost" />
@@ -292,7 +294,7 @@
         <env name="DS_PORT" value="8081" />
         <env name="DS_HOST" value="localhost" />
       </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day36_1053交换一次的先前排列" />
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day53_1110删点成林" />
       <module name="ACMTemp" />
       <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
@@ -307,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Trantor.day36_1053交换一次的先前排列" />
-        <item itemvalue="Trantor.day35_2367算术三元组的数目" />
-        <item itemvalue="Trantor.day034_2389和有限的最长子序列" />
-        <item itemvalue="Trantor.day033_2383赢得比赛需要的最少训练时长" />
-        <item itemvalue="Trantor.day032_2379得到K个黑块的最少涂色次数" />
+        <item itemvalue="Trantor.day53_1110删点成林" />
+        <item itemvalue="Trantor.day52_1091二进制矩阵中的最短路径" />
+        <item itemvalue="Trantor.day51_1090受标签影响的最大值" />
+        <item itemvalue="Trantor.day49_2446判断两个事件是否存在冲突" />
+        <item itemvalue="Trantor.day48_1072按列翻转得到最大值等行数" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +340,21 @@
       <workItem from="1678351678157" duration="1958000" />
       <workItem from="1678700909795" duration="3578000" />
       <workItem from="1679552746280" duration="34623000" />
-      <workItem from="1680578342178" duration="3259000" />
+      <workItem from="1680578342178" duration="8313000" />
+      <workItem from="1680832603317" duration="283000" />
+      <workItem from="1680848586892" duration="17625000" />
+      <workItem from="1681218429941" duration="9584000" />
+      <workItem from="1681748226414" duration="452000" />
+      <workItem from="1681796203703" duration="16793000" />
+      <workItem from="1682058922626" duration="1254000" />
+      <workItem from="1682217866758" duration="27959000" />
+      <workItem from="1682669175392" duration="596000" />
+      <workItem from="1684130014518" duration="7911000" />
+      <workItem from="1684303141763" duration="4067000" />
+      <workItem from="1684464159798" duration="4371000" />
+      <workItem from="1684827414701" duration="4192000" />
+      <workItem from="1685065896129" duration="6966000" />
+      <workItem from="1685098553692" duration="15390000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -375,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676528109773</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day-code4">
+      <created>1680592045099</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680592045099</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -495,7 +518,8 @@
     <MESSAGE value="day-code" />
     <MESSAGE value="day-code2" />
     <MESSAGE value="day-code3" />
-    <option name="LAST_COMMIT_MESSAGE" value="day-code3" />
+    <MESSAGE value="day-code4" />
+    <option name="LAST_COMMIT_MESSAGE" value="day-code4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -509,6 +533,26 @@
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day033_2383赢得比赛需要的最少训练时长.java</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day40_2404出现最频繁的偶数元素.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day43_1043分隔数组以得到最大和.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day51_1090受标签影响的最大值.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day51_1090受标签影响的最大值.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
