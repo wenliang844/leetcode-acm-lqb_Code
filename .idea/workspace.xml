@@ -141,7 +141,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -166,7 +166,7 @@
       <recent name="ACM.每日一题leecode.第二波.leetcode.day030" />
     </key>
   </component>
-  <component name="RunManager" selected="Trantor.day53_1110删点成林">
+  <component name="RunManager">
     <configuration name="day48_1072按列翻转得到最大值等行数" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
@@ -307,15 +307,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Trantor.day53_1110删点成林" />
-        <item itemvalue="Trantor.day52_1091二进制矩阵中的最短路径" />
-        <item itemvalue="Trantor.day51_1090受标签影响的最大值" />
-        <item itemvalue="Trantor.day49_2446判断两个事件是否存在冲突" />
-        <item itemvalue="Trantor.day48_1072按列翻转得到最大值等行数" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
