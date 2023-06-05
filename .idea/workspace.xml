@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="1" />
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Codejava/MyCode/test/testMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -235,14 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664679053423</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="111">
+      <created>1685944223135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685944223135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="111">
+      <created>1685944365678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685944365678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6527000" />
+    <option name="totallyTimeSpent" value="6868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="16" width="1385" height="1042" extended-state="0" />
+    <frame x="132" y="4" width="1385" height="1042" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28150943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -367,7 +383,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ACM/ACM1_20201116江西省赛/Main.java">
@@ -436,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Codejava/MyCode/test/testMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
