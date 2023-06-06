@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="day-code4">
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACM/leecode周赛/力扣杯2021春战队赛/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/leecode周赛/力扣杯2021春战队赛/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day37_1000合并石头的最低成本.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day37_1000合并石头的最低成本.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,21 +36,16 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ACM/tag刷题/算法/贪心算法/greedy_406根据身高重建队列.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day015_784字母大小写全排列.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/栈/stack_155最小栈.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day017_1769移动所有球到每个盒子所需的最小操作数.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day004_658找到K个最接近的元素.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/剑指/day002_剑指OfferII026重排链表.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day015_784字母大小写全排列.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day022_1945字符串转化后的各位数字之和.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/剑指/day001_剑指Offer09用两个栈实现队列.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/Integer.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/ACM/tag刷题/算法/贪心算法/greedy_406根据身高重建队列.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/剑指/day002_剑指OfferII026重排链表.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/model/Person.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day022_807保持城市天际线.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java" root0="SKIP_INSPECTION" />
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day022_1945字符串转化后的各位数字之和.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,7 +55,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="662" />
+    <option name="x" value="-11" />
+    <option name="y" value="13" />
     <option name="width" value="1260" />
     <option name="height" value="1042" />
   </component>
@@ -73,63 +69,82 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ACM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ACM" type="462c0819:PsiDirectoryNode" />
-              <item name="ACM_20201116江西师大校选拔赛" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ACM" type="462c0819:PsiDirectoryNode" />
-              <item name="ACM_20201116江西师大校选拔赛" type="462c0819:PsiDirectoryNode" />
-              <item name="ACM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ACM" type="462c0819:PsiDirectoryNode" />
               <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ACM" type="462c0819:PsiDirectoryNode" />
               <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
-              <item name="day237" type="462c0819:PsiDirectoryNode" />
+              <item name="第二波" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
+              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="第二波" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
+              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="第二波" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="day030" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM2021" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Codejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-acm-lqb_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-acm-lqb_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Codejava" type="462c0819:PsiDirectoryNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -153,7 +168,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="ReaderModeSettings">
     <option name="showRenderedDocs" value="false" />
@@ -165,6 +180,18 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ACM.每日一题leecode.第二波.leetcode.day030" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="day48_1072按列翻转得到最大值等行数" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
@@ -308,7 +335,7 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -346,6 +373,7 @@
       <workItem from="1684827414701" duration="4192000" />
       <workItem from="1685065896129" duration="6966000" />
       <workItem from="1685098553692" duration="15390000" />
+      <workItem from="1685943893781" duration="2279000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -389,17 +417,24 @@
       <option name="project" value="LOCAL" />
       <updated>1680592045099</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day-code4">
+      <created>1685944038815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685944038815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6141000" />
+    <option name="totallyTimeSpent" value="8420000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="662" y="0" width="1260" height="1042" extended-state="0" />
+    <frame x="-11" y="13" width="1260" height="1042" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27416667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27416667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -414,7 +449,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4129956" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.35682818" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -486,6 +521,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -497,12 +538,33 @@
                   </entry>
                 </map>
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
@@ -518,31 +580,37 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day000/day22_108将有序数组转换为二叉搜索树.java</url>
           <line>14</line>
+          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day033_2383赢得比赛需要的最少训练时长.java</url>
           <line>22</line>
+          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day40_2404出现最频繁的偶数元素.java</url>
           <line>43</line>
+          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day43_1043分隔数组以得到最大和.java</url>
           <line>104</line>
+          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day51_1090受标签影响的最大值.java</url>
           <line>41</line>
+          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day51_1090受标签影响的最大值.java</url>
           <line>39</line>
+          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
