@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACMTemp/ACM/leecode周赛/力扣杯2021春战队赛/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACMTemp/ACM/leecode周赛/力扣杯2021春战队赛/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACMTemp/ACM/每日一题leecode/day237/day264_1773统计匹配检索规则的物品数量.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACMTemp/ACM/每日一题leecode/day237/day264_1773统计匹配检索规则的物品数量.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,19 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T1哪天到期的订单最多.java">
+        <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day55_142环形链表II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T2输入日期输出到期日.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -45,6 +38,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hash</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,14 +74,15 @@
         <option value="$PROJECT_DIR$/src/Codejava/MyCode/test/testMatch.java" />
         <option value="$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T2输入日期输出到期日.java" />
         <option value="$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T1哪天到期的订单最多.java" />
+        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day54_771宝石与石头.java" />
+        <option value="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day55_142环形链表II.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="719" />
-    <option name="y" value="2" />
-    <option name="width" value="1202" />
-    <option name="height" value="1025" />
+    <option name="x" value="479" />
+    <option name="width" value="1442" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="2IwJ8oUgxPy76WDO91eGU9aQKKd" />
   <component name="ProjectLevelVcsManager">
@@ -113,6 +112,40 @@
               <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ACM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
+              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
+              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="第二波" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
+              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="第二波" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACMTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM" type="462c0819:PsiDirectoryNode" />
+              <item name="每日一题leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="第二波" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="day030" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ACMTemp" type="b2602c69:ProjectViewProjectNode" />
@@ -153,7 +186,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/qgsaas/saas-notice/saas-notice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/lianqian/supervise-plus/supervise-plus" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -190,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T2输入日期输出到期日">
+  <component name="RunManager" selected="Application.day54_771宝石与石头">
     <configuration name="T2输入日期输出到期日" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codejava.java面试题.美登科技笔试.T2输入日期输出到期日" />
       <module name="ACMTemp" />
@@ -204,24 +237,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day033_2383赢得比赛需要的最少训练时长" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
-        <env name="REDIS_HOST" value="localhost" />
-        <env name="DS_PROJECT_ID" value="trantor" />
-        <env name="ACL_MOCK" value="true" />
-        <env name="REDIS_PORT" value="6380" />
-        <env name="META_STORE_PORT" value="8082" />
-        <env name="DUBBO_ENABLED" value="false" />
-        <env name="META_STORE_HOST" value="localhost" />
-        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
-        <env name="USER_MOCK" value="true" />
-        <env name="DS_PORT" value="8081" />
-        <env name="DS_HOST" value="localhost" />
-      </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day033_2383赢得比赛需要的最少训练时长" />
+    <configuration name="day54_771宝石与石头" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day54_771宝石与石头" />
       <module name="ACMTemp" />
-      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
@@ -318,6 +336,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day54_771宝石与石头" />
         <item itemvalue="Application.T2输入日期输出到期日" />
       </list>
     </recent_temporary>
@@ -347,7 +366,10 @@
       <workItem from="1679552746280" duration="34623000" />
       <workItem from="1680578342178" duration="3259000" />
       <workItem from="1688711639982" duration="30000" />
-      <workItem from="1689231098920" duration="3541000" />
+      <workItem from="1689231098920" duration="4234000" />
+      <workItem from="1689922843304" duration="9000" />
+      <workItem from="1689923840746" duration="10287000" />
+      <workItem from="1691983972364" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -398,27 +420,33 @@
       <option name="project" value="LOCAL" />
       <updated>1686049185793</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day-code3">
+      <created>1689235524351</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689235524351</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13904000" />
+    <option name="totallyTimeSpent" value="26712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="719" y="2" width="1202" height="1025" extended-state="0" />
-    <editor active="true" />
+    <frame x="479" y="0" width="1442" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.262697" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29088277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Version Control" order="7" weight="0.25886792" />
+      <window_info active="true" id="Version Control" order="7" visible="true" weight="0.2583213" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28507295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2026287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,7 +470,7 @@
       <window_info anchor="right" id="Codota" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.262697" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28896672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -630,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day53_1110删点成林.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/lang/Exception.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -666,17 +687,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T2输入日期输出到期日.java">
+    <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T1哪天到期的订单最多.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T1哪天到期的订单最多.java">
+    <entry file="file://$PROJECT_DIR$/src/Codejava/java面试题/美登科技笔试/T2输入日期输出到期日.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="228">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day027_1664生成平衡数组的方案数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/code_chatgpt_spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day52_1091二进制矩阵中的最短路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/lang/CharSequence.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/tag刷题/数据结构/链表/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day53_1110删点成林.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8379">
+          <caret line="487" column="19" selection-start-line="487" selection-start-column="15" selection-end-line="487" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day54_771宝石与石头.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day55_142环形链表II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
