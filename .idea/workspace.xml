@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="">
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="day-code4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day55_142环形链表II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day55_142环形链表II.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day56_833字符串中的查找与替换.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="59" lean-forward="true" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+            <state relative-caret-position="204">
+              <caret line="36" column="109" lean-forward="true" selection-start-line="36" selection-start-column="109" selection-end-line="36" selection-end-column="109" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,7 +65,11 @@
     <findStrings>
       <find>hash</find>
       <find>**</find>
+      <find>indexMap.get(indices[i])</find>
     </findStrings>
+    <replaceStrings>
+      <replace>originIndex</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,8 +108,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="256" />
-    <option name="width" value="1674" />
+    <option name="x" value="403" />
+    <option name="width" value="1524" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="2IwJ8oUgxPy76WDO91eGU9aQKKd" />
@@ -380,7 +383,7 @@
       <workItem from="1689231098920" duration="4234000" />
       <workItem from="1689922843304" duration="9000" />
       <workItem from="1689923840746" duration="10287000" />
-      <workItem from="1691983972364" duration="9554000" />
+      <workItem from="1691983972364" duration="13698000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -445,27 +448,41 @@
       <option name="project" value="LOCAL" />
       <updated>1691991659842</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day-code4">
+      <created>1692082748201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692082748201</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day-code4">
+      <created>1692091210747</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692091210747</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34438000" />
+    <option name="totallyTimeSpent" value="38582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Version Control" order="7" weight="0.25253257" />
+      <window_info id="Version Control" order="7" weight="0.2521322" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24295011" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24295011" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.335141" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -726,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day027_1664生成平衡数组的方案数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/code_chatgpt_spider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -792,10 +802,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day027_1664生成平衡数组的方案数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day56_833字符串中的查找与替换.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="59" lean-forward="true" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+        <state relative-caret-position="204">
+          <caret line="36" column="109" lean-forward="true" selection-start-line="36" selection-start-column="109" selection-end-line="36" selection-end-column="109" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
