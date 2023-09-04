@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="day-code4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day56_833字符串中的查找与替换.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM/每日一题leecode/第二波/leetcode/day030/day56_833字符串中的查找与替换.java" afterDir="false" />
-    </list>
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="feat:9.4提交leetcode算法刷题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -328,6 +325,7 @@
       <workItem from="1692584847405" duration="4564000" />
       <workItem from="1693532750262" duration="1061000" />
       <workItem from="1693535469941" duration="3808000" />
+      <workItem from="1693806927288" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -413,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692234407054</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat:9.4提交leetcode算法刷题">
+      <created>1693807114440</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693807114440</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -548,7 +553,8 @@
     <MESSAGE value="day-code2" />
     <MESSAGE value="day-code3" />
     <MESSAGE value="day-code4" />
-    <option name="LAST_COMMIT_MESSAGE" value="day-code4" />
+    <MESSAGE value="feat:9.4提交leetcode算法刷题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:9.4提交leetcode算法刷题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
