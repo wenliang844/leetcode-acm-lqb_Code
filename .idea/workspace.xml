@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="feat:9.4提交leetcode算法刷题" />
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="feat:9.4提交leetcode算法刷题">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,33 +204,7 @@
       <recent name="ACM.每日一题leecode.第二波.leetcode.day030" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day57_2511最多可以摧毁的敌人城堡数目">
-    <configuration name="T2输入日期输出到期日" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codejava.java面试题.美登科技笔试.T2输入日期输出到期日" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codejava.java面试题.美登科技笔试.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day54_771宝石与石头" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day54_771宝石与石头" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.day60_2594修车的最少时间">
     <configuration name="day56_833字符串中的查找与替换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day56_833字符串中的查找与替换" />
       <module name="ACMTemp" />
@@ -255,24 +231,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day36_1053交换一次的先前排列" type="Trantor.RunConfiguration" factoryName="Trantor.RunConfiguration" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="DISCOVERY_ENABLE_CONSUL" value="true" />
-        <env name="REDIS_HOST" value="localhost" />
-        <env name="DS_PROJECT_ID" value="trantor" />
-        <env name="ACL_MOCK" value="true" />
-        <env name="REDIS_PORT" value="6380" />
-        <env name="META_STORE_PORT" value="8082" />
-        <env name="DUBBO_ENABLED" value="false" />
-        <env name="META_STORE_HOST" value="localhost" />
-        <env name="REDIS_PASSWORD" value="password;DISCOVERY_ENABLE_CONSUL" />
-        <env name="USER_MOCK" value="true" />
-        <env name="DS_PORT" value="8081" />
-        <env name="DS_HOST" value="localhost" />
-      </envs>
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day36_1053交换一次的先前排列" />
+    <configuration name="day58_449序列化和反序列化二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day58_449序列化和反序列化二叉搜索树" />
       <module name="ACMTemp" />
-      <option name="VM_PARAMETERS" value="-Dspring.output.ansi.enabled=ALWAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day59_2605从两个数字数组里生成最小数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day59_2605从两个数字数组里生成最小数字" />
+      <module name="ACMTemp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day60_2594修车的最少时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day60_2594修车的最少时间" />
+      <module name="ACMTemp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
@@ -285,10 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day60_2594修车的最少时间" />
+        <item itemvalue="Application.day59_2605从两个数字数组里生成最小数字" />
+        <item itemvalue="Application.day58_449序列化和反序列化二叉搜索树" />
         <item itemvalue="Application.day57_2511最多可以摧毁的敌人城堡数目" />
         <item itemvalue="Application.day56_833字符串中的查找与替换" />
-        <item itemvalue="Application.day54_771宝石与石头" />
-        <item itemvalue="Application.T2输入日期输出到期日" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +313,11 @@
       <workItem from="1692584847405" duration="4564000" />
       <workItem from="1693532750262" duration="1061000" />
       <workItem from="1693535469941" duration="3808000" />
-      <workItem from="1693806927288" duration="348000" />
+      <workItem from="1693806927288" duration="8523000" />
+      <workItem from="1693876584129" duration="2612000" />
+      <workItem from="1694061737049" duration="3462000" />
+      <workItem from="1694148825251" duration="3158000" />
+      <workItem from="1694162569836" duration="1723000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -418,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693807114440</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat:9.4提交leetcode算法刷题">
+      <created>1693807362036</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693807362036</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
