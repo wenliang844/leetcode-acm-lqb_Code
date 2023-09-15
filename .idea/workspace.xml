@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="feat:9.4提交leetcode算法刷题" />
+    <list default="true" id="397209ff-86cf-45f1-9f5a-8216032219fa" name="Default Changelist" comment="feat:9.4提交leetcode算法刷题">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,33 +204,7 @@
       <recent name="ACM.每日一题leecode.第二波.leetcode.day030" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day60_2594修车的最少时间">
-    <configuration name="day56_833字符串中的查找与替换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day56_833字符串中的查找与替换" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day57_2511最多可以摧毁的敌人城堡数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day57_2511最多可以摧毁的敌人城堡数目" />
-      <module name="ACMTemp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day030.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.day63_LCP50宝石补给">
     <configuration name="day58_449序列化和反序列化二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day030.day58_449序列化和反序列化二叉搜索树" />
       <module name="ACMTemp" />
@@ -268,13 +244,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day62_1222可以攻击国王的皇后" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day61.day62_1222可以攻击国王的皇后" />
+      <module name="ACMTemp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day61.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day63_LCP50宝石补给" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.每日一题leecode.第二波.leetcode.day61.day63_LCP50宝石补给" />
+      <module name="ACMTemp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.每日一题leecode.第二波.leetcode.day61.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day63_LCP50宝石补给" />
+        <item itemvalue="Application.day62_1222可以攻击国王的皇后" />
         <item itemvalue="Application.day60_2594修车的最少时间" />
         <item itemvalue="Application.day59_2605从两个数字数组里生成最小数字" />
         <item itemvalue="Application.day58_449序列化和反序列化二叉搜索树" />
-        <item itemvalue="Application.day57_2511最多可以摧毁的敌人城堡数目" />
-        <item itemvalue="Application.day56_833字符串中的查找与替换" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +317,9 @@
       <workItem from="1693876584129" duration="2612000" />
       <workItem from="1694061737049" duration="3462000" />
       <workItem from="1694148825251" duration="3158000" />
-      <workItem from="1694162569836" duration="2038000" />
+      <workItem from="1694162569836" duration="2287000" />
+      <workItem from="1694661081457" duration="12223000" />
+      <workItem from="1694780197962" duration="4435000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664679053423</created>
@@ -422,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694169130904</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat:9.4提交leetcode算法刷题">
+      <created>1694169435818</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694169435818</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
